@@ -4,42 +4,8 @@ title: 关于
 permalink: /about/
 
 ---
-A simple and elegant theme for Jekyll and GitHub Pages.
+Hello guys, I'm MR.Explorer which would like to explore the Computer World and make video for you all.Hope you enjoy watching my contents as much as I enjoy making them. Don't forget to leave a SUBSCRIBE and LIKE to support my works! :)
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+大家好，我是探索先生，想探索电脑世界并为大家制作视频。希望您喜欢观看我的内容，就像我喜欢制作它们一样。不要忘记订阅和按赞来支持我的作品! :)
 
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
-
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+我也同步了我的 Youtube 视频到 Odysee 上，有兴趣的话可以去我的Odysee频道上看看。希望大家可以支持我的作品！:)
